@@ -4,6 +4,8 @@ Toggle the [LangChain DeepAgents CLI](https://docs.langchain.com/oss/python/deep
 inside Neovim — vertical split, horizontal split, or floating window. Modeled
 after the common Claude Code / aider terminal-toggle plugins.
 
+![screenshot](screenshot.png)
+
 ## Requirements
 
 - Neovim 0.9+
